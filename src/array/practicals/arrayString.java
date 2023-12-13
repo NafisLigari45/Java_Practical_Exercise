@@ -1,9 +1,11 @@
+
+//Write a program to print sum of given Array.
 package CompanyExercise;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class arrayString {
+public class sumOfArray {
 	public static void main(String args[]) {
 	int a[]=new int[] {45,45,10};
 		int sum=0;
