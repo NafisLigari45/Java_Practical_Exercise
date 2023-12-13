@@ -1,9 +1,9 @@
+//Write a program to find the given number is prime or not using Math.sqrt function.
 package CompanyExercise;
-
 
 public class Primenum {
    public static void main(String args[]) {
-	   int n=21;
+	   int n=13;
 	 //  boolean flag=true;
 	 
 	   for(int i=2;i<=Math.sqrt(n);i++) {
