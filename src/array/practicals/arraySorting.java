@@ -1,4 +1,6 @@
- package CompanyExercise;
+// Write a program to Sort Array and print in Ascending order.
+
+package CompanyExercise;
 
 import java.util.Arrays;
 
