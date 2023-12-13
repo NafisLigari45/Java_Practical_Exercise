@@ -1,3 +1,4 @@
+// Write a program to print Piramid.
 package CompanyExercise;
 
 public class Piramid {
