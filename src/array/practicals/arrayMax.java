@@ -1,3 +1,5 @@
+//Write a program to find maximum value of Given array.
+
 package CompanyExercise;
 
 public class arrayMax {
