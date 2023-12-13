@@ -1,3 +1,5 @@
+// Write a program to Find Prime Number Using Recurcive Function.
+
 package CompanyExercise;
 
 import java.util.Scanner;
