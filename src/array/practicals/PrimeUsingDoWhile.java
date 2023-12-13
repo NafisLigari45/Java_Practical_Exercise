@@ -1,3 +1,4 @@
+//Write a program to find the given number is prime or not using do while loop.
 package CompanyExercise;
 	
 public class PrimeUsingDoWhile {
