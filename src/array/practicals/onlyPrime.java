@@ -1,3 +1,4 @@
+// Write a program to print Only Prime number of Given Value.
 package CompanyExercise;
 
 import java.util.Scanner;
