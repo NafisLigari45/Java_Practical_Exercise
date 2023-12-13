@@ -1,3 +1,4 @@
+//print 1 to 10 using recursive function.
 package CompanyExercise;
 
 public class Recursive {
