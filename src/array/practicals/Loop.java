@@ -1,3 +1,4 @@
+// Write a programe to print infinite loop.
 package CompanyExercise;
 
 public class Loop {
